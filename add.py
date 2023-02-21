@@ -6,5 +6,7 @@ def find_square(num):
 # function call
 square = find_square(3)
 
+
+
 print('Square:',square)
 
